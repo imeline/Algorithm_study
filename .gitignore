@@ -1,0 +1,34 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+### Java template
+*.class
+#PackageFiles
+*.jar
+*.war
+*.ear
+###macOStemplate
+*.DS_Store
+.AppleDouble
+.LSOverride
+#IntelliJprojectfiles
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
+#Compliledfiles
+/target/
+**/target
+/example/
+#Gradle
+.gradle
+/build/
+.gradletasknamecache
